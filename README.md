@@ -1,2 +1,2 @@
 Bring a towel
-![bloop](auto-generated-path-to-file-when-you-upload-image "Hi")
+![bloop](330px-IBM_PC-IMG_7271_(transparent)-4063620060.png "Hi")
